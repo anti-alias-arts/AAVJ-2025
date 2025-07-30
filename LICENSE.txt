@@ -23,6 +23,7 @@ To verify Patreon licenses, this software temporarily collects the following inf
 - Patreon ID (numerical user ID)
 - Patreon Username / Vanity name (if available)
 - Pledge start date
+- Local machine ID
 
 This data is used solely to validate your license and is never sold, shared, or used for marketing purposes.
 
