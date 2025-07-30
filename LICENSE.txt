@@ -1,0 +1,47 @@
+Copyright © 2025 Anti-Alias Productions, LLC. All rights reserved.
+
+This TouchDesigner project 'AAVJ' (the “Software”) is licensed, not sold, to the end user (“User”) by Anti-Alias Productions, LLC. The Software includes the project file, associated components (.tox), scripts, shaders, and visual assets.
+
+1. LICENSE GRANT
+The User is granted a non-exclusive, non-transferable license to use and study the Software for personal or internal commercial use, subject to these terms.
+
+2. ALLOWED USES
+- Users may use and learn from the Software.
+- Commercial use is allowed only with an active Patreon license.
+
+3. PROHIBITED USES
+- Redistribution of the Software, modified or not, is prohibited without prior written permission.
+- Use of substantial parts of the Software—including networks, scripts, or custom components—in other commercial tools or products is prohibited.
+- Derivative works (e.g., re-skinned clones or lightly modified versions) for public release or sale are not allowed.
+- Reverse engineering or extracting parts of the Software for reuse is prohibited.
+
+4. DATA USE & PRIVACY
+
+To verify Patreon licenses, this software temporarily collects the following information during the OAuth login process:
+
+- Patreon ID (numerical user ID)
+- Patreon Username / Vanity name (if available)
+- Pledge start date
+
+This data is used solely to validate your license and is never sold, shared, or used for marketing purposes.
+
+No personal information such as full name, email address, payment details, or location data is collected.
+
+Your license data is securely stored and used only for the operation of AAVJ’s licensing system. If you cancel your Patreon subscription or revoke access, your data will be removed upon request.
+
+For questions or data removal, contact: jack@anti-alias.xyz
+
+5. ATTRIBUTION
+If concepts or techniques are shared in public projects or tutorials, attribution to Anti-Alias | Jack Hurley is appreciated.
+
+6. LICENSE TERMINATION
+This license terminates immediately if the User violates any of these terms.
+
+7. NO WARRANTY
+The Software is provided “as-is” with no warranties. Use at your own risk.
+
+8. JURISDICTION
+This agreement is governed by the laws of the State of Colorado, USA.
+
+9. CONTACT
+For licensing questions or commercial inquiries: jack@anti-alias.xyz | www.anti-alias.xyz

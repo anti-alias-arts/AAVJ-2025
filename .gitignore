@@ -1,0 +1,15 @@
+# Ignore Backup folder
+Backup/
+
+# Ignore all .toe files in the root directory
+/AAVJ*.toe
+
+# Ignore backup/temporary .toe files (anywhere)
+*.toe~
+*.backup.toe
+
+# Ignore all .tox files
+*.tox
+
+# BUT include .tox files inside Assets/ (and its subfolders)
+!Assets/**/*.tox
