@@ -14,6 +14,7 @@ The User is granted a non-exclusive, non-transferable license to use and study t
 - Use of substantial parts of the Software—including networks, scripts, or custom components—in other commercial tools or products is prohibited.
 - Derivative works (e.g., re-skinned clones or lightly modified versions) for public release or sale are not allowed.
 - Reverse engineering or extracting parts of the Software for reuse is prohibited.
+- Forking this repository or creating public clones on GitHub or other platforms is prohibited without explicit written permission.
 
 4. DATA USE & PRIVACY
 
